@@ -59,7 +59,11 @@
     "vaul": "^0.9.6",
     "zod": "^3.24.1",
     "@ai-sdk/openai": "latest",
-    "ai": "latest"
+    "ai": "latest",
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0",
+    "@types/node": "^20.0.0",
+    "@types/react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
